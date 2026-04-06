@@ -80,4 +80,20 @@ Tribal_Biomass_PNW/
 ### Data Not Included in Repository
 Due to file size limitations, large raster datasets are not included in this repository. Please download them separately using the links above  or in Data/Readme folder.
 
+## Libraries used
+- library(sf)
+- library(terra)
+- library(exactextractr)
+- library(dplyr)
+- library(ggplot2)
+- library(tigris)
+- library(tidyterra)
+- library(ggnewscale)
+- library(tmap)
+- library(readr)
+- library(leaflet)
+- library(scales)
+- library(kableExtra)
+- library (tidyverse
+)
 
