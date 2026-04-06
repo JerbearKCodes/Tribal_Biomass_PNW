@@ -37,17 +37,21 @@ What is the sustainable forest bioenergy potential within 5 miles of major triba
 
 ### Primary Datasets
 - **TreeMap 2022 CONUS DRYBIO** - USDA Forest Service
-  - Aboveground dry biomass (Mg/ha)
-  - 30m resolution
+  - Aboveground dry Live biomass above Ground (Tons/Acre)
+  - 30 m resolution
   - [Download here](https://data.fs.usda.gov/geodata/rastergateway/treemap/)
 
 - **LANDFIRE 2024** - USGS/USFS
-  - Canopy Height, Cover, Bulk Density, Vegetation Type
-  - 30m resolution
+  - CONUS, Canopy Height, Canopy Cover, Canopy Bulk Density, and related vegetation layers
+  - 30 m resolution
   - [Download here](https://landfire.gov/data/FullExtentDownloads?field_version_target_id=All&field_theme_target_id=All&field_region_id_target_id=4)
 
-- **US Census Tribal Tracts** - TIGER/Line 2019
-  - Accessed via `tigris` R package
+- **USFS Continental US Forest Type** - USDA Forest Service
+  - Forest type raster layer for the continental United States
+  - [Download here](https://data.fs.usda.gov/geodata/rastergateway/forest_type/index.php)
+
+- **US Census Tribal Tracts / Native Areas / States** - TIGER/Line 2019
+  - Accessed via the `tigris` R package
   - No manual download required
 
 ### Data Not Included in Repository
