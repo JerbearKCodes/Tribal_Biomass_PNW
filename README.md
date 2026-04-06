@@ -53,6 +53,14 @@ What is the sustainable forest bioenergy potential within 5 miles of major triba
 - **US Census Tribal Tracts / Native Areas / States** - TIGER/Line 2019
   - Accessed via the `tigris` R package
   - No manual download required
+  
+- **US Census Tribal Tracts / Native Areas / States** - TIGER/Line 2019
+  - Accessed via the `tigris` R package
+  - No manual download required
+    - If issues with Tribal lands
+  -  - **US Census Tribal Census Tracts** - TIGER/Line 2019
+  - Tribal land boundary polygons
+  - [Download here](https://catalog.data.gov/dataset/tiger-line-shapefile-2019-nation-u-s-current-tribal-census-tract-national) 
 
 ### Data Not Included in Repository
 Due to file size limitations, large raster datasets are not included in this repository. Please download them separately using the links above  or in Data/Readme folder.
