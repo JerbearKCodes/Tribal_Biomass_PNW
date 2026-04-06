@@ -2,10 +2,8 @@
 title: 'Powering Tribal Resilience: Exploring Forest Biomass Energy Potential on Tribal
   Lands in the Pacific Northwest'
 author: "Jeremy Kwok Choon"
-date: "April 2026"
-output:
-  html_document: default
-  pdf_document: default
+date: "1 April 2026"
+
 ---
 
 # Introduction
