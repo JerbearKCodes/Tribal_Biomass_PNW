@@ -39,6 +39,22 @@ What is the sustainable forest bioenergy potential within 5 miles of major triba
   - Aggressive: 30% over 20 years
 - **Energy Calculations**: Biomass converted to energy using Higher Heating Value (19.0 GJ/Mg for mixed PNW forests)
 
+## Repository Structure
+
+```text
+Tribal_Biomass_PNW/
+├── Data/                       # Raw data folder (excluded from Git)
+│   └── README.md               # Data download links and instructions
+├── Narrative/                  # Project Story & Presentation
+│   ├── Figures/                # Maps and charts used in the story
+│   └── Narrative.md            # "Powering Tribal Resilience" project story
+├── Notebook/                   # R Scripts
+│   ├── 01_Exploratory.R        # Analysis of Forest Structure (CBD, Height, etc.)
+│   └── 02_Biomass_Analysis.R   # Main Energy & Biomass calculations
+└── Output/                     # Final Results
+    └── All figures             # All figures
+```
+
 ## Data Sources
 
 ### Primary Datasets
