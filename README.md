@@ -1,5 +1,5 @@
 ---
-title: "Readme.Biomass availibility in the Pacific Northwest"
+title: "Readme.Biomass availability in the Pacific Northwest."
 author: "Jeremy Kwok Choon"
 date: "April, 1, 2026`"
 output: html_document
@@ -12,17 +12,23 @@ knitr::opts_chunk$set(echo = TRUE)
 # Forest Bioenergy Potential for Pacific Northwest Tribal Lands
 
 ## Overview
-This project assesses the sustainable forest biomass energy potential within economically viable distances of major tribal reservations in Pacific Northwest (Oregon, Washington, and Idaho). The analysis evaluates how much renewable energy could be generated from forest resources under different sustainable harvest management scenarios. This project was carried out in R Studio in R code. 
+This project assesses the sustainable forest biomass energy potential within economically viable distances of major tribal reservations in the Pacific Northwest (Oregon, Washington, and Idaho). The analysis evaluates how much renewable energy could be generated from forest resources under different sustainable harvest management scenarios. This project was carried out in R Studio in R code. 
 
 ## Research Question
 What is the sustainable forest bioenergy potential within 5 miles of major tribal reservations in the Pacific Northwest, and how does this potential vary across different harvest management scenarios?
 
 ## Key Findings
-- **Study Area**: Major tribal reservations (>10,000 acres) with 5-mile buffer zones
-- **Total Biomass**: [X] million Mg of standing dry biomass
-- **Energy Potential**: [Y] MWh/year under moderate harvest scenario (20% over 20 years)
-- **Household Equivalents**: Could power approximately [Z] homes annually
-- **Top Reservations**: [List top 3-5 by energy potential]
+- **Study Area**: Major tribal reservations (>10,000 acres) with 5-mile resilience buffer zones
+- **Management Scenario**: 40% thinning intensity applied across 20-, 30-, and 40-year rotation cycles
+- **Annual Energy (Top 10 Tribes)**:
+  - 20-Year Cycle: 11,000,000+ MWh/year
+  - 30-Year Cycle: ~7,300,000 MWh/year
+  - 40-Year Cycle: ~5,500,000 MWh/year
+- **Household Equivalents (Annual)**:
+  - 20-Year Cycle: ~1,000,000 homes
+  - 30-Year Cycle: ~680,000 homes
+  - 40-Year Cycle: ~510,000 homes
+- **Top Reservations**: Yakama, Warm Springs, Cow Creek, Colville, and Quinault
 
 ## Methodology
 - **Spatial Analysis**: 30-meter resolution raster analysis using TreeMap 2022 biomass data
