@@ -96,19 +96,19 @@ These maps help answer basic questions such as:
 
 ### Forest Structure and Condition
 
-![Map of canopy bulk density across Oregon, Washington, and Idaho. Higher values indicate denser canopy fuel structure.](1.Canopy_Bulk_Density_PNW.png)
+![Map of canopy bulk density across Oregon, Washington, and Idaho. Higher values indicate denser canopy fuel structure.](Figures/1.Canopy_Bulk_Density_PNW.png)
 
 *Figure 3. Canopy bulk density across the Pacific Northwest.*
 
-![Map of canopy cover across Oregon, Washington, and Idaho. Higher values indicate denser canopy cover.](2.Canopy_Coverage_PNW.png)
+![Map of canopy cover across Oregon, Washington, and Idaho. Higher values indicate denser canopy cover.](Figures/2.Canopy_Coverage_PNW.png)
 
 *Figure 4. Canopy cover across the Pacific Northwest.*
 
-![Map of canopy height across Oregon, Washington, and Idaho. Higher values indicate taller forest canopy.](3.Canopy_Height_PNW.png)
+![Map of canopy height across Oregon, Washington, and Idaho. Higher values indicate taller forest canopy.](Figures/3.Canopy_Height_PNW.png)
 
 *Figure 5. Canopy height across the Pacific Northwest.*
 
-![Map of forest type across Oregon, Washington, and Idaho. Different colors represent different forest type classes.](5.Forest_Types_PNW.png)
+![Map of forest type across Oregon, Washington, and Idaho. Different colors represent different forest type classes.](Figures/5.Forest_Types_PNW.png)
 
 *Figure 6. Forest type distribution across the Pacific Northwest.*
 
@@ -126,7 +126,7 @@ A simple way to think about it is:
 
 So when this report talks about millions of Mg, it is talking about millions of metric tons of dry wood material.
 
-![Map of dry biomass across Oregon, Washington, and Idaho. Brighter colors indicate greater dry biomass density.](4.Dry_Biomass_PNW.png)
+![Map of dry biomass across Oregon, Washington, and Idaho. Brighter colors indicate greater dry biomass density.](Figures/4.Dry_Biomass_PNW.png)
 
 *Figure 7. Dry biomass distribution across the Pacific Northwest.*
 
