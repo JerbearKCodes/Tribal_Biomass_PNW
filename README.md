@@ -11,7 +11,7 @@ output: html_document
 This project assesses sustainable forest biomass energy potential within economically viable distances of major tribal reservations in the Pacific Northwest. Using R to analyze TreeMap and LANDFIRE spatial data, I evaluated renewable energy capacity under a 40% thinning management scenario. A key takeaway is the potential to power over 510,000 homes annually, effectively bridging wildfire resilience with tribal energy sovereignty.
 
 ## Research Question
-What is the sustainable forest bioenergy potential within 5 miles of major tribal reservations in the Pacific Northwest, and how does this potential vary across different harvest management scenarios?
+What is the forest bioenergy potential within 5 miles of major tribal reservations in the Pacific Northwest, and how does that potential change under different harvest rotation scenarios?
 
 ## Key Findings
 - **Study Area**: Major tribal reservations (>10,000 acres) with 5-mile resilience buffer zones
