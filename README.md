@@ -1,5 +1,5 @@
 ---
-title: "Readme.Biomass availability in the Pacific Northwest."
+Title: "Readme.Forest Bioenergy Potential for Pacific Northwest Tribal Lands"
 author: "Jeremy Kwok Choon"
 date: "April, 1, 2026`"
 output: html_document
