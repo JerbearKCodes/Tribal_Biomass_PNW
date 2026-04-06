@@ -30,9 +30,10 @@ What is the forest bioenergy potential within 5 miles of major tribal reservatio
 - **Spatial Analysis**: 30-meter resolution raster analysis using TreeMap 2022 biomass data
 - **Buffer Analysis**: 5-mile zones around tribal boundaries representing economic hauling distance
 - **Harvest Scenarios**: Three sustainable harvest rates tested:
-  - Conservative: 10% over 20 years
-  - Moderate: 20% over 20 years (recommended)
-  - Aggressive: 30% over 20 years
+  - Scenario 1: 40% over 20 years
+  - Scenario 2: 40% over 30 years
+  - Scenario 3: 40% over 40 years
+- **Total Biomass Potential**: Total biomass in region
 - **Energy Calculations**: Biomass converted to energy using Higher Heating Value (19.0 GJ/Mg for mixed PNW forests)
 
 ## Repository Structure
