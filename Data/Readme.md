@@ -18,3 +18,7 @@
 - **US Census Tribal Tracts / Native Areas / States** - TIGER/Line 2019
   - Accessed via the `tigris` R package
   - No manual download required
+    - If issues with Tribal lands
+  -  - **US Census Tribal Census Tracts** - TIGER/Line 2019
+  - Tribal land boundary polygons
+  - [Download here](https://catalog.data.gov/dataset/tiger-line-shapefile-2019-nation-u-s-current-tribal-census-tract-national)
