@@ -12,7 +12,7 @@ knitr::opts_chunk$set(echo = TRUE)
 # Forest Bioenergy Potential for Pacific Northwest Tribal Lands
 
 ## Overview
-This project assesses the sustainable forest biomass energy potential within economically viable distances of major tribal reservations in the Pacific Northwest (Oregon, Washington, and Idaho). The analysis evaluates how much renewable energy could be generated from forest resources under different sustainable harvest management scenarios. This project was carried out in R Studio in R code. 
+This project assesses sustainable forest biomass energy potential within economically viable distances of major tribal reservations in the Pacific Northwest. Using R to analyze TreeMap and LANDFIRE spatial data, I evaluated renewable energy capacity under a 40% thinning management scenario. A key takeaway is the potential to power over 510,000 homes annually, effectively bridging wildfire resilience with tribal energy sovereignty.
 
 ## Research Question
 What is the sustainable forest bioenergy potential within 5 miles of major tribal reservations in the Pacific Northwest, and how does this potential vary across different harvest management scenarios?
