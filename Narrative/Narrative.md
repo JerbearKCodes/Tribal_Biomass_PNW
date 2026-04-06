@@ -128,7 +128,7 @@ After mapping biomass, the study overlays that information with tribal lands and
 
 This helps identify where tribal geographies and forest biomass resources overlap.
 
-![Map showing dry biomass density together with tribal lands and the 5-mile buffer.](7.DryBiomassDensityandTribalLandsinPNWwith5MileBuffer.png)
+![Map showing dry biomass density together with tribal lands and the 5-mile buffer.](Figures/7.png)
 
 *Figure 7. Biomass density in relation to tribal lands and the 5-mile buffer.*
 
