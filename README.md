@@ -5,10 +5,6 @@ date: "April, 1, 2026`"
 output: html_document
 ---
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
-
 # Forest Bioenergy Potential for Pacific Northwest Tribal Lands
 
 ## Overview
