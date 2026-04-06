@@ -250,7 +250,7 @@ The top 10 tribal land bases in the study account for:
 
 These numbers are large, but they should be understood carefully. They describe the **overall scale of the resource**, not what should be harvested all at once.
 
-![Table showing area, dry biomass, energy potential, and homes powered for the top 10 tribes in the Pacific Northwest.](10. Top 10 PNW Tribal Biomass Energy Potential.png)
+![Table showing area, dry biomass, energy potential, and homes powered for the top 10 tribes in the Pacific Northwest.](Figures/10.png)
 
 *Figure 8. Top 10 tribes by total biomass energy potential.*
 
@@ -268,7 +268,7 @@ The leading tribes by total potential are:
 
 Together, these five account for the large majority of the top-10 total. This matters because it suggests that future biomass conversations may be most relevant in specific geographic hotspots, rather than evenly across the entire region.
 
-![Bar chart showing tribal biomass energy potential across tribes in the Pacific Northwest.](9. Tribal Biomass Energy Potential in the PNW Bar Chart.png)
+![Bar chart showing tribal biomass energy potential across tribes in the Pacific Northwest.](Figures/9.png)
 
 *Figure 9. Total theoretical biomass energy potential by tribe.*
 
@@ -294,11 +294,11 @@ In household-equivalent terms, that is about:
 
 These are still large numbers, but they tell a more grounded story than the total resource estimate. They show how biomass might function as a long-term regional energy resource under a management scenario, rather than as a one-time stockpile.
 
-![Bar chart showing annual biomass energy by tribe under a 40% thinning scenario across 20-, 30-, and 40-year cycles.](12. Top 10 Tribes Annual Biomass Energy by 40 percent Thinning Rotation.png)
+![Bar chart showing annual biomass energy by tribe under a 40% thinning scenario across 20-, 30-, and 40-year cycles.](Figures/12.png)
 
 *Figure 10. Annual biomass energy by tribe under 40% thinning scenarios.*
 
-![Table showing annual MWh and household equivalents for the top 10 tribes under 40% thinning and 20-, 30-, and 40-year cycles.](14. Thinning Harvest Scenarios (40percent Intensity) by Rotation Cycle.png)
+![Table showing annual MWh and household equivalents for the top 10 tribes under 40% thinning and 20-, 30-, and 40-year cycles.](Figures/14.png)
 
 *Figure 11. Annual thinning scenario results for the top 10 tribes.*
 
@@ -361,8 +361,8 @@ The energy estimates in this project are best understood as **resource potential
 
 In other words:
 
-- they show the scale of energy contained in the biomass resource  
-- they do **not** yet model full real-world conversion losses, facility design, or delivered electric output  
+- They show the scale of energy contained in the biomass resource  
+- They do **not** yet model full real-world conversion losses, facility design, or delivered electric output  
 
 That means actual electricity production from a biomass facility would likely be lower than the raw energy-equivalent estimates shown here.
 
@@ -416,12 +416,12 @@ The resource is there. The geography matters. The opportunities are uneven but r
 
 ## Tribal Land Area
 
-![Bar chart showing the top 10 PNW tribes by reservation size in acres.](8. Top 10 PNW Tribes Land Area by Reservation size.png)
+![Bar chart showing the top 10 PNW tribes by reservation size in acres.](Figures/8.png)
 
 *Appendix Figure A1. Top 10 PNW tribes by reservation size.*
 
 ## Theoretical Annual Harvest Scenarios
 
-![Table showing theoretical annual harvest scenarios by tribe under 20-, 30-, and 40-year rotation cycles.](11. Theoretical Annual Harvest Scenarios by Rotation Cycle.png)
+![Table showing theoretical annual harvest scenarios by tribe under 20-, 30-, and 40-year rotation cycles.](Figures/11.png)
 
 *Appendix Figure A2. Theoretical annual harvest scenarios by rotation cycle.*
