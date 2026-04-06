@@ -55,10 +55,6 @@ What is the sustainable forest bioenergy potential within 5 miles of major triba
 - **USFS Continental US Forest Type** - USDA Forest Service
   - Forest type raster layer for the continental United States
   - [Download here](https://data.fs.usda.gov/geodata/rastergateway/forest_type/index.php)
-
-- **US Census Tribal Tracts / Native Areas / States** - TIGER/Line 2019
-  - Accessed via the `tigris` R package
-  - No manual download required
   
 - **US Census Tribal Tracts / Native Areas / States** - TIGER/Line 2019
   - Accessed via the `tigris` R package
