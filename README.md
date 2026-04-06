@@ -55,10 +55,6 @@ What is the sustainable forest bioenergy potential within 5 miles of major triba
   - No manual download required
 
 ### Data Not Included in Repository
-Due to file size limitations, large raster datasets are not included in this repository. Please download them separately using the links above and place them in `data/raw/spatial/`. See `data/raw/spatial/README.md` for detailed instructions.
+Due to file size limitations, large raster datasets are not included in this repository. Please download them separately using the links above  or in Data/Readme folder.
 
-## Repository Structure
 
-```{r pressure, echo=FALSE}
-plot(pressure)
-```
