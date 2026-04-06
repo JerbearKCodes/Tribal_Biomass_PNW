@@ -10,20 +10,20 @@ output:
 
 # Introduction
 
-What if material removed to make forests safer could also help power homes, strengthen tribal energy sovereignty, and support rural jobs?
+What if material removed to make forests safer could also mitigate wildfire risk, strengthen tribal energy sovereignty, and support rural jobs?
 
 That question sits at the heart of this project.
 
-Across the Pacific Northwest, many tribal communities are living with multiple, overlapping challenges. Forests in many places are denser than they once were, increasing wildfire risk. At the same time, many communities are seeking more local control over their energy future, especially as energy costs rise and climate-related disruptions become more common. In regions where traditional timber economies have declined, there is also growing interest in land-based economic opportunities that support both community well-being and forest stewardship.
+Across the Pacific Northwest, many tribal communities are living with multiple, overlapping challenges. Forests in many places are denser than they once were, increasing wildfire risk. At the same time, many communities are seeking more local control over their energy future, especially as energy costs rise and climate-related disruptions become more common. In regions where traditional timber economies have declined and continue to decline, there is also growing interest in land-based economic opportunities that support both community well-being and forest stewardship.
 
 This project explores one possible connection between these issues: **forest biomass**.
 
-In simple terms, forest biomass is the wood-based material stored in trees and forest vegetation. When forests are thinned for restoration or wildfire risk reduction, some of that material can potentially be used as an energy source. That means biomass may offer more than one benefit at the same time:
+In simple terms, forest biomass is the wood-based material stored in trees and forest vegetation. When forests are thinned for timber production, forest restoration, or wildfire risk reduction, some of that material can potentially be used as an energy source. That means biomass may offer more than one benefit at the same time:
 
-- it may help reduce hazardous fuel loads  
-- it may provide a renewable energy alternative  
-- it may support tribal energy sovereignty and resilience  
-- it may create work in forestry, hauling, processing, and energy systems  
+- It may help reduce hazardous fuel loads  
+- It may provide a renewable energy alternative  
+- It may support tribal energy sovereignty and resilience  
+- It may create work in forestry, hauling, processing, and energy systems  
 
 This study does **not** argue that every tribe should pursue biomass development, and it does **not** claim that every acre should be harvested. Instead, it asks a more basic and important first question:
 
@@ -37,9 +37,7 @@ That is the purpose of this analysis.
 
 # Why This Question Matters
 
-This research is motivated by a practical and public-facing question, not just a technical one.
-
-For many people, “biomass” can sound abstract. But on the ground, this topic is really about community needs:
+This research is motivated by a practical and public-facing question, not just a technical one. For many people, “biomass” can sound abstract. But on the ground, this topic is really about community needs:
 
 - safer forests  
 - more resilient energy systems  
@@ -60,7 +58,7 @@ This project focuses on major tribal land bases in:
 
 To keep the analysis focused on larger land bases with greater potential for forest-based management, the study emphasizes **tribal lands larger than 10,000 acres**.
 
-A **5-mile buffer** was added around tribal lands. This buffer is meant to represent a reasonable starting point for thinking about nearby forest resources that may still be close enough to matter for hauling and local use.
+A **5-mile buffer** was added around tribal lands. This buffer is intended to serve as a reasonable starting point for considering nearby forest resources that may still be close enough to matter for hauling and local use. While tribes may not own all property in these reserves and surrounding reserves, they can harbour agreements with private or state entities through stewardship agreements or Good Neighbor Authority deals on Federal lands to steward these lands.
 
 ![Map showing tribal lands greater than 10,000 acres in Oregon, Washington, and Idaho, along with the 5-mile buffer used in the study.](6. Tribal Lands in the PNW with 5-mile buffer.png)
 
@@ -72,7 +70,11 @@ A general audience should be able to follow the logic of the project in a few cl
 
 ## Step 1: Identify Tribal Lands
 
-The first step was to map major tribal land areas in the Pacific Northwest. These lands are the center of the analysis.
+The first step was to map major tribal land areas in the Pacific Northwest. These lands are the center of the analysis. There are 43 recognized tribes in this region. The number of tribes was narrowed down to 10,000 acres or larger for the feasibility of biomass potential for the land area.
+
+![Bar chart showing the top 10 PNW tribes by reservation size in acres.](Figures/8.png)
+
+*Appendix Figure A1. Top 10 PNW tribes by reservation size.*
 
 ## Step 2: Add a 5-Mile Buffer
 
@@ -105,6 +107,8 @@ These maps help answer basic questions such as:
 ![Map of forest type across Oregon, Washington, and Idaho. Different colors represent different forest type classes.](5.Forest_Types_PNW.png)
 
 *Figure 5. Forest type distribution across the Pacific Northwest.*
+
+These maps themselves do not calculate biomass, but they were used to create a biomass layer used in the next step.
 
 ## Step 4: Measure Dry Biomass
 
@@ -413,12 +417,6 @@ But this analysis shows that the conversation is worth having.
 The resource is there. The geography matters. The opportunities are uneven but real. And with deeper analysis, stronger partnerships, and community-led decision-making, this work can move from exploratory mapping toward practical planning.
 
 # Appendix: Additional Visuals
-
-## Tribal Land Area
-
-![Bar chart showing the top 10 PNW tribes by reservation size in acres.](Figures/8.png)
-
-*Appendix Figure A1. Top 10 PNW tribes by reservation size.*
 
 ## Theoretical Annual Harvest Scenarios
 
