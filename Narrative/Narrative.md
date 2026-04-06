@@ -74,11 +74,15 @@ The first step was to map major tribal land areas in the Pacific Northwest. Thes
 
 ![Bar chart showing the top 10 PNW tribes by reservation size in acres.](Figures/8.png)
 
-*Appendix Figure A1. Top 10 PNW tribes by reservation size.*
+* Figure 1. Top 10 PNW tribes by reservation size.*
 
 ## Step 2: Add a 5-Mile Buffer
 
 Next, a 5-mile buffer was drawn around each tribal land area. This created a broader “working landscape” for the study. The idea is that nearby forest resources may still be relevant to tribal communities, especially when considering restoration, hauling distance, and local energy systems.
+
+![Map showing 5-Mile buffer over tribal lands.](Figures/6.png)
+
+* Figure 2. Map showing 5-Mile buffer over tribal lands.*
 
 ## Step 3: Measure Forest Conditions
 
@@ -94,19 +98,19 @@ These maps help answer basic questions such as:
 
 ![Map of canopy bulk density across Oregon, Washington, and Idaho. Higher values indicate denser canopy fuel structure.](1.Canopy_Bulk_Density_PNW.png)
 
-*Figure 2. Canopy bulk density across the Pacific Northwest.*
+*Figure 3. Canopy bulk density across the Pacific Northwest.*
 
 ![Map of canopy cover across Oregon, Washington, and Idaho. Higher values indicate denser canopy cover.](2.Canopy_Coverage_PNW.png)
 
-*Figure 3. Canopy cover across the Pacific Northwest.*
+*Figure 4. Canopy cover across the Pacific Northwest.*
 
 ![Map of canopy height across Oregon, Washington, and Idaho. Higher values indicate taller forest canopy.](3.Canopy_Height_PNW.png)
 
-*Figure 4. Canopy height across the Pacific Northwest.*
+*Figure 5. Canopy height across the Pacific Northwest.*
 
 ![Map of forest type across Oregon, Washington, and Idaho. Different colors represent different forest type classes.](5.Forest_Types_PNW.png)
 
-*Figure 5. Forest type distribution across the Pacific Northwest.*
+*Figure 6. Forest type distribution across the Pacific Northwest.*
 
 These maps themselves do not calculate biomass, but they were used to create a biomass layer used in the next step.
 
@@ -124,7 +128,7 @@ So when this report talks about millions of Mg, it is talking about millions of 
 
 ![Map of dry biomass across Oregon, Washington, and Idaho. Brighter colors indicate greater dry biomass density.](4.Dry_Biomass_PNW.png)
 
-*Figure 6. Dry biomass distribution across the Pacific Northwest.*
+*Figure 7. Dry biomass distribution across the Pacific Northwest.*
 
 ## Step 5: Overlay Biomass with Tribal Lands and Buffers
 
@@ -134,7 +138,7 @@ This helps identify where tribal geographies and forest biomass resources overla
 
 ![Map showing dry biomass density together with tribal lands and the 5-mile buffer.](Figures/7.png)
 
-*Figure 7. Biomass density in relation to tribal lands and the 5-mile buffer.*
+*Figure 8. Biomass density in relation to tribal lands and the 5-mile buffer.*
 
 ## Step 6: Convert Biomass into Energy Potential
 
@@ -256,7 +260,7 @@ These numbers are large, but they should be understood carefully. They describe 
 
 ![Table showing area, dry biomass, energy potential, and homes powered for the top 10 tribes in the Pacific Northwest.](Figures/10.png)
 
-*Figure 8. Top 10 tribes by total biomass energy potential.*
+*Figure 9. Top 10 tribes by total biomass energy potential.*
 
 ## Energy Potential Is Not Evenly Distributed
 
@@ -274,7 +278,7 @@ Together, these five account for the large majority of the top-10 total. This ma
 
 ![Bar chart showing tribal biomass energy potential across tribes in the Pacific Northwest.](Figures/9.png)
 
-*Figure 9. Total theoretical biomass energy potential by tribe.*
+*Figure 10. Total theoretical biomass energy potential by tribe.*
 
 ## Annual Scenarios Tell a More Realistic Story
 
@@ -300,11 +304,11 @@ These are still large numbers, but they tell a more grounded story than the tota
 
 ![Bar chart showing annual biomass energy by tribe under a 40% thinning scenario across 20-, 30-, and 40-year cycles.](Figures/12.png)
 
-*Figure 10. Annual biomass energy by tribe under 40% thinning scenarios.*
+*Figure 11. Annual biomass energy by tribe under 40% thinning scenarios.*
 
 ![Table showing annual MWh and household equivalents for the top 10 tribes under 40% thinning and 20-, 30-, and 40-year cycles.](Figures/14.png)
 
-*Figure 11. Annual thinning scenario results for the top 10 tribes.*
+*Figure 12. Annual thinning scenario results for the top 10 tribes.*
 
 # Why These Findings Matter
 
@@ -422,4 +426,4 @@ The resource is there. The geography matters. The opportunities are uneven but r
 
 ![Table showing theoretical annual harvest scenarios by tribe under 20-, 30-, and 40-year rotation cycles.](Figures/11.png)
 
-*Appendix Figure A2. Theoretical annual harvest scenarios by rotation cycle.*
+*Appendix Figure A1. Theoretical annual harvest scenarios by rotation cycle.*
